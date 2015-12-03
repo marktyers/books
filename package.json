@@ -1,0 +1,23 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "Simple Books API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marktyers/books.git"
+  },
+  "author": "Mark J Tyers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marktyers/books/issues"
+  },
+  "homepage": "https://github.com/marktyers/books#readme",
+  "dependencies": {
+    "request": "^2.67.0",
+    "restify": "^4.0.3"
+  }
+}
